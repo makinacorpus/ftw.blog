@@ -2,6 +2,13 @@ Changelog
 =========
 
 
+1.8.1 (unreleased)
+------------------
+
+- Drop support for Plone 4.1 [jone]
+- Fix month name localization [kiorky]
+
+
 1.6.1 (2014-04-23)
 ------------------
 
