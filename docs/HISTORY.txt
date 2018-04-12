@@ -9,6 +9,35 @@ Changelog
 - Fix month name localization [kiorky]
 
 
+1.8.0 (2015-05-26)
+------------------
+
+- Move blog specific styles from plonetheme.onegov to this package.
+  [lknoepfel]
+
+- Never use obj.translate, use zope.i18n.translate.
+  [mathias.leimgruber]
+
+- Added zipexport integration.
+  [lknoepfel]
+
+- Added PDF generation.
+  [lknoepfel]
+
+
+1.7.0 (2014-12-02)
+------------------
+
+- Made File addable in BlogEntry.
+  [lknoepfel]
+
+- Add uninstall profile.
+  [deif]
+
+- Remove import_steps.xml in favour of zcml import step definition.
+  [deif]
+
+
 1.6.1 (2014-04-23)
 ------------------
 

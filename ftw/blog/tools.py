@@ -4,7 +4,7 @@ from zope.i18n import translate
 
 
 def abbmonth(time):
-    """Return abbreviated internation month name
+    """Return abbreviated internationalized month name
     """
     return monthname_msgid(time.strftime("%m"))
 
